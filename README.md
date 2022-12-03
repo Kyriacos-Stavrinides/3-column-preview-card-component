@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [My Solution](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/responsive-3-column-component-Gu2BBNx6A-)
 - Live Site URL: [Github pages](https://kyriacos-stavrinides.github.io/3-column-preview-card-component/)
 
 ## My process
